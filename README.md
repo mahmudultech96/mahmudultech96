@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with getting a job as a Frontend Developer
 - 💬 Ask me about Javascript, React.js, Node.js, Express.js, Mongodb, Firebase, and Me (:
 - 📫 DM me at: mahmudulhe@gmail.com
-- 😄 Pronouns: Mah + mu + dul
-- ⚡ Fun fact: I eat soo much junk foods ):
+- 😄 Pronouns: He/Him
+- ⚡ Fact: I eat soo much junk foods ):
