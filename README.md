@@ -2,4 +2,4 @@
 
 - 🌱 currently learning Full-stack Web Development
 - 👯 looking to collaborate on Open-Source Projects
-- 📫 DM me at: mahmudul9ty@outlook.com
+- 📫 DM me at: mahmudultech96@gmail.com
